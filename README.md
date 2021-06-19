@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Personal Expenses App</h3>
+  <h1 align="center">Personal Expenses App</h1>
 
   <p align="center">
     Keep track of all your spendings
